@@ -1,6 +1,0 @@
-services:
-  - type: web
-    name: bot-telegram-jj
-    env: node
-    buildCommand: npm install
-    startCommand: node index.js
